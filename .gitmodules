@@ -1,0 +1,3 @@
+[submodule "bestagon"]
+	path = bestagon
+	url = git@github.com:Obult/bestagon.git
